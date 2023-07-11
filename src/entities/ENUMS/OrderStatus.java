@@ -1,0 +1,8 @@
+package entities.ENUMS;
+
+public enum OrderStatus {
+	PEDING_PAYMENT,
+	PROCESSING,
+	SHIPPED,
+	DELIVERED;
+}
